@@ -1,4 +1,8 @@
 # admin
-This is my first App
+This is Campus-Bus-Management
 <br>
-Author - Vaibhav Sonar
+Admin_Panel
+Login:
+email=admin@gmail.com
+password=admin123
+
